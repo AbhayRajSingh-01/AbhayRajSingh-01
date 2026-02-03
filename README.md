@@ -38,9 +38,6 @@ JavaScript  ███████░░░ 70%
 React       ░░░░░░░░░░ 0% (Coming Soon 🚀)
 Backend     ░░░░░░░░░░ 0% (Loading...)
 
-<!-- <h1 align="center">Hey 👋, I'm Abhay Raj Singh</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | Turning Ideas into Code</h3>
-
 ---
 
 ### 🧑‍💻 About Me  
@@ -52,19 +49,10 @@ Backend     ░░░░░░░░░░ 0% (Loading...)
 
 ---
 
-### 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
 
 
 
-### 📈 Learning Journey  
-```text
-HTML        ██████████ 100%
-CSS         ██████████ 100%
-JavaScript  ███████░░░ 70%
-React       ░░░░░░░░░░ 0% (Coming Soon 🚀)
-Backend     ░░░░░░░░░░ 0% (Loading...)
+
+
 
 
