@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Raj Singh</h1>
-<h3 align="center">A passionate frontend developer || aspiring full stack developer || learning DSA</h3>
+<h3 align="center">A passionate frontend developer || full stack developer || learning DSA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
